@@ -11,7 +11,7 @@ import stack.arrayStackImple.EmptyCollectionException;
  *
  * @param <T>
  */
-public class CircularArrayQueue<T> implements QueueADT<T> {
+public class CircularArrayQueue<T> implements queue.arrayQueueImple.QueueADT<T> {
 	private final int DEFAULT_CAPACITY = 100;
 	private int front, rear, count;
 	private T[] queue;
