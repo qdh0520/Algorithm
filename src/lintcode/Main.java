@@ -29,6 +29,7 @@ public class Main {
 //        int[] arr={0,0,3,3,0,-2,3,-2,-1,-1,2,1};
 //        new MaximumProductSubarray().maxProduct(arr);
         System.out.println(Integer.MAX_VALUE);
+        System.out.println("test git ");
     }
 
 }
